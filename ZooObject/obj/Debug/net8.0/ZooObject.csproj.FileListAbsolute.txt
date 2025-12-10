@@ -1,0 +1,15 @@
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.AssemblyInfoInputs.cache
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.AssemblyInfo.cs
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.csproj.CoreCompileInputs.cache
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.sourcelink.json
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\bin\Debug\net8.0\ZooObject.exe
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\bin\Debug\net8.0\ZooObject.deps.json
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\bin\Debug\net8.0\ZooObject.runtimeconfig.json
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\bin\Debug\net8.0\ZooObject.dll
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\bin\Debug\net8.0\ZooObject.pdb
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.dll
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\refint\ZooObject.dll
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.pdb
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ZooObject.genruntimeconfig.cache
+C:\Users\BibiB\source\repos\ZooObject\ZooObject\obj\Debug\net8.0\ref\ZooObject.dll
