@@ -1,0 +1,6 @@
+﻿namespace ZooObject.Interfaces;
+
+public interface ILayEggs
+{
+    void LayEggs();
+}
